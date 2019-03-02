@@ -1,6 +1,6 @@
 ## Welcome to Tweetfollowers Website
 
-The tweetfollowers app will help you manage your followership on twitter. This process can also be automated suing the pro version of this app.
+The tweetfollowers app will help you manage your followship on twitter. This process can also be automated suing the pro version of this app.
 
 
 ### Developer
